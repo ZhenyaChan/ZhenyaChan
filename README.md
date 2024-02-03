@@ -32,13 +32,20 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,mysql,mongodb,git,linux" />
-    <img src="https://skillicons.dev/icons?i=c++,java,python,javascript,typescript,nodejs,express,nextjs,docker,aws,azure" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,mysql,mongodb,git" />
+    <img src="https://skillicons.dev/icons?i=c++,java,python,javascript,typescript,nodejs,express,nextjs,linux,docker,aws,azure" /><br>
 </div>
 
 <br/>
 <hr/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ZhenyaChan/ZhenyaChan/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 <hr/>
